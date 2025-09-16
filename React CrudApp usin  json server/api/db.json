@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Dipti mishra",
+      "age": "24",
+      "username": "dipti009",
+      "email": "dipti@gmail.com",
+      "id": "cc8c"
+    },
+    {
+      "name": "gayuuu",
+      "age": "22",
+      "username": "gayatri",
+      "email": "jm@gmail.com",
+      "id": "0c76"
+    },
+    {
+      "id": "e9a6",
+      "name": "rakesh",
+      "age": "55",
+      "username": "rakesh123",
+      "email": "rakesh@gmail.com"
+    }
+  ]
+}

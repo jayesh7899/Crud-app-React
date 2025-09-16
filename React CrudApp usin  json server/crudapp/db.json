@@ -1,0 +1,41 @@
+
+{
+    "users":[
+        {
+            "name":"Jayesh",
+            "age":23,
+            "username":"jayesh009",
+            "email":"jayeshmali899@gmail.com"
+        },
+        {
+            "name":"Vaibhav",
+            "age":23,
+             "username":"jayesh009",
+            "email":"vaibhav899@gmail.com"
+        },
+        {
+            "name":"Ajay",
+            "age":20,
+             "username":"jayesh009",
+            "email":"ajay899@gmail.com"
+        },
+        {
+            "name":"Jayuuuu",
+            "age":23,
+             "username":"jayesh009",
+            "email":"jm899@gmail.com"
+        },
+        {
+            "name":"vinit",
+            "age":23,
+             "username":"jayesh009",
+            "email":"vinuuu899@gmail.com"
+        },
+        {
+            "name":"paresh",
+            "age":21,
+             "username":"jayesh009",
+            "email":"pareshmali899@gmail.com"
+        }
+    ]
+}
